@@ -1,0 +1,15 @@
+Fill in my main.handlebars and index.handlebars
+
+Write my frontend javascript functionality (get/post/put)
+
+display burgers on website from database
+
+post new burgers to database
+
+update devoured boolean values through frontend interaction
+
+seperate devoured burgers from uneaten burgers
+
+style my html page
+
+export to heroku
